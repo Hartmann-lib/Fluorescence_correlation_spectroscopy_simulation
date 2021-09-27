@@ -1,5 +1,9 @@
 import numpy as np
 
+"""
+27.09.2021 | Andreas Hartmann
+"""
+
 def trajectory_2states(k_on, k_off, DT, N_STEPS):
     """
     State trajectory of 2 states with interconversion rates k_on and k_off
