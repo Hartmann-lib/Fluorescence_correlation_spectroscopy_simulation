@@ -1,16 +1,11 @@
 # Fluorescence_correlation_spectroscopy_simulation
 
-Fluorescence correlation spectroscopy (FCS) is a powerful tool to investigate the size of molecules ...
+Fluorescence correlation spectroscopy (FCS) is a versatile measurement technique to investigate interactions of biomolecules, binding affinities and dimensions of single-molecules and bigger complexes. To this end, the auto-correlation curve is extracted from intensity time traces. In the simple case of one diffusing species 
+with unique size, a theoretical function can be applied to obtain the diffusion constant and hence the size of the molecules. However, the interpretation of correlation curves becomes more difficult in the presence of multiple species with different diffusion constants and molecular brightnesses. Beside heterogeneity, interconversion dynamics between two species represents just another layer of complexity. In this software package two simulation tools are provided to emulate multiple species 
 
-In single-molecule FRET confocal microscopy, we monitor conformational changes of biomolecules by the intensity ratio of donor and acceptor fluorescence.
-FRET is a powerful and widely spread tool, which allows the observation of intra-molecular distance changes in the range of 2 to 10 nanometer with high time resolution. 
-However, non-ideal labeling stoichiometries (i.e. significant fraction of donor only and acceptor only labeled molecules) together with fluorescence bleaching and 
-multiple molecule events make it often difficult to interpret and extract the information of interest (FRET efficiency and population fractions).
+helping to explore and understand measured data.
 
-In the following script 'burstSim2.py' I provide a simulation software to generate non-ideal single-molecule photon trajectories, which include differences in detection 
-efficiency and quantum yield, photo-bleaching, multiple molecule events and donor/acceptor only fractions helping to explore and understand measured data.
-
-You can find the parameter section commented in the main file 'burstSim2.py'. 
+You can find the parameter section commented in the respective main file 'simFCS_species.py' and 'simFCS_dynamic.py'. 
 
 Have fun!
 
