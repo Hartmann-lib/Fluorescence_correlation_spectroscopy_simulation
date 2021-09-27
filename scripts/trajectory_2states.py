@@ -2,7 +2,14 @@ import numpy as np
 
 def trajectory_2states(k_on, k_off, DT, N_STEPS):
     """
+    State trajectory of 2 states with interconversion rates k_on and k_off
     
+    k_on : (ms^-1) interconversion rate 0->1
+    k_off : (ms^-1) interconversion rate 1->0
+    DT : (µs) time step size
+    N_STEPS : number of time steps
+    
+    return state trajectory
     """
 
     # estimating number of dwell times to draw
