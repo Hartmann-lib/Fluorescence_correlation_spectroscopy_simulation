@@ -16,5 +16,4 @@ Have fun!
 
 ![Figure_simFCS_species](https://user-images.githubusercontent.com/58071484/134956332-4ecbb059-c33c-4b0e-85ea-cacbdb648beb.png)
 
-
-![Figure_simFCS_dynamics](https://user-images.githubusercontent.com/58071484/134956354-7920cef5-3558-40b2-8b7b-a9f55db7e107.png)
+![Figure_simFCS_dynamics](https://user-images.githubusercontent.com/58071484/134976700-ee7a07fe-b618-4aa7-92a2-cab62ac1c30f.png)
