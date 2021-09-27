@@ -14,6 +14,6 @@ You can find the parameter section commented in the respective main file.
 
 Have fun!!
 
-[Figure_simFCS_species](https://user-images.githubusercontent.com/58071484/134976765-88284cb0-00a9-41cf-bb44-3cc30784464d.png)
+![Figure_simFCS_species](https://user-images.githubusercontent.com/58071484/134976765-88284cb0-00a9-41cf-bb44-3cc30784464d.png)
 
 ![Figure_simFCS_dynamics](https://user-images.githubusercontent.com/58071484/134976700-ee7a07fe-b618-4aa7-92a2-cab62ac1c30f.png)
