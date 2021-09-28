@@ -35,7 +35,7 @@ KAPPA = 5 # wz/wxy axis ratio of the confocal volume elipsoid
 # simulation parameters
 L = 5 # (µm) simulation box size
 DT = 1 # (µs) time step size
-N_STEPS = int(1e5)  # number of time steps
+N_STEPS = int(5e5)  # number of time steps
 N_ITER = 4 # number of repeating iterations
 
 NA = 6.02214076e23 # (mol^-1) avogadro constant
